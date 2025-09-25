@@ -1,2 +1,1 @@
-# lab2
-mmcs-lab2
+Hello kitty
